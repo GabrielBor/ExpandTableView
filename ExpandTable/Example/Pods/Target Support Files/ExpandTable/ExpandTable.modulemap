@@ -1,0 +1,6 @@
+framework module ExpandTable {
+  umbrella header "ExpandTable-umbrella.h"
+
+  export *
+  module * { export * }
+}

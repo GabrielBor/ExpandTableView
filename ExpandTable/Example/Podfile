@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ExpandTable_Tests' do
+  pod 'ExpandTable', :path => '../'
+  
+  
+end

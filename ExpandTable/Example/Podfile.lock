@@ -1,0 +1,16 @@
+PODS:
+  - ExpandTable (0.1.0)
+
+DEPENDENCIES:
+  - ExpandTable (from `../`)
+
+EXTERNAL SOURCES:
+  ExpandTable:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ExpandTable: a02e222df65d8c849cef146d64979d5a5ee2b2bd
+
+PODFILE CHECKSUM: a8ee50eaf75b62166cafdd722075ec2f90b104d6
+
+COCOAPODS: 1.0.0

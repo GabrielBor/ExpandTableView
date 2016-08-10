@@ -1,0 +1,22 @@
+{
+  "name": "ExpandTable",
+  "version": "0.1.0",
+  "summary": "A short description of ExpandTable.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/ExpandTable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GabrielBor": "gabriel_borges.13@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/ExpandTable.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ExpandTable/Classes/**/*"
+}
